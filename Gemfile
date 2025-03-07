@@ -57,7 +57,7 @@ end
 group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"
-  gem "sidekiq", "~> 7.3"
+  gem "sidekiq", "~> 8.0"
 end
 
 group :test do
